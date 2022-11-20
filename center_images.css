@@ -1,0 +1,11 @@
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img[alt*="none"] {
+    display: flex;
+    margin-left: 0;
+    margin-right: 0;
+}
