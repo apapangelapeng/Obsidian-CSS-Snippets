@@ -1,4 +1,4 @@
 
 @media print {
-    .titlebar { margin: auto;} /* page-break-after works, as well */
+    .titlebar { margin: auto;}
 }
