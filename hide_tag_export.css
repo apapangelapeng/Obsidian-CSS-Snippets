@@ -1,0 +1,3 @@
+@media print {
+    .cm-hashtag { display:none } /* page-break-after works, as well */
+}

@@ -1,0 +1,25 @@
+@media print {
+  th
+  {
+    color: black;
+  }
+
+    p {
+      font-family: "Times New Roman";
+    }
+    table {
+      font-family: "Times New Roman";
+    };
+    li {
+      font-family: "Times New Roman";
+    }
+    ul {
+      font-family: "Times New Roman";
+    }
+    ol {
+      font-family: "Times New Roman";
+    }
+    a {
+      color: black;
+    } 
+}
